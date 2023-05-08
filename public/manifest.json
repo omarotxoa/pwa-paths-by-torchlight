@@ -1,0 +1,32 @@
+{
+    "name": "Path's by Torchlight",
+    "short_name": "PbT",
+    "start_url": ".",
+    "description": "A dark fantasy explorer looter RPG w/ idle elements",
+    "background_color": "#323232",
+    "theme_color": "#6b3e78",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "../src/assets/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "../src/assets/icon-256.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "maskable"
+        },
+        {
+            "src": "../src/assets/icon-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "../src/assets/icon-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        }
+    ]
+}
