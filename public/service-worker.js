@@ -3,10 +3,6 @@ self.addEventListener("install", e => {
       caches.open("pwa-assets").then(cache => {
           return cache.addAll([
               "./", 
-              "styles.css", 
-              "script.js", 
-              "../src/icon-96.png", 
-              "../src/icon-256.png"
           ]);
       })
   ); 
