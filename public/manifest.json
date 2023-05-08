@@ -1,0 +1,10 @@
+{
+    "name": "Path's by Torchlight",
+    "short_name": "PbT",
+    "start_url": ".",
+    "description": "A dark fantasy explorer looter RPG w/ idle elements",
+    "background_color": "#323232",
+    "theme_color": "#6b3e78",
+    "display": "standalone",
+    "icons": [{}]
+}
