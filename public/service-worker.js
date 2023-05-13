@@ -2,7 +2,9 @@ self.addEventListener("install", e => {
   e.waitUntil(
       caches.open("pwa-assets").then(cache => {
           return cache.addAll([
-              "./", 
+              "./",
+              "./assets/",
+              "script.js"
           ]);
       })
   ); 
